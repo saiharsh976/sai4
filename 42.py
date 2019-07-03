@@ -1,9 +1,5 @@
-da12,da23=input().split()
-112=len(da12)
-123=len(da23)
-if 112>123:
-    print(da12)
-elif 123>112:
-    print(da23)
+em1,ds2=input().split()
+if (len(ds2)>=(em1)):
+    print(ds1)
 else:
-    print(da23)
+    print(em1)
