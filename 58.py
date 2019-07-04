@@ -1,5 +1,5 @@
 dm1,cd2=map(int,input().split())
-s=list(map(int,input().slpit()))
+list9=list(map(int,input().slpit()))
 if(i==cd2):
     print("yes")
     break
